@@ -8,6 +8,10 @@ export default function Header() {
           <span className={styles.logoBg}>b</span>
           <span className={styles.logoText}>braelo</span>
         </a>
+        <div className={styles.contact}>
+          <span>contato@braelo.com</span>
+          <span>56 1234 3806</span>
+        </div>
         <nav className={styles.nav}>
           <ul>
             <li><a href="#como-funciona">Como funciona</a></li>

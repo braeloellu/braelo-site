@@ -77,6 +77,18 @@
   background: var(--primary-dark);
 }
 
+.contact {
+  display: flex;
+  gap: 20px;
+  font-size: 0.85rem;
+  color: var(--text-gray);
+  margin-left: 20px;
+}
+
+.contact span {
+  font-weight: 500;
+}
+
 @media (max-width: 768px) {
   .nav {
     display: none;
