@@ -10,7 +10,7 @@ export default function Header() {
         </a>
         <div className={styles.contact}>
           <span>contato@braelo.com</span>
-          <span>56 1234 3806</span>
+          <span>+1 (561) 234-3806</span>
         </div>
         <nav className={styles.nav}>
           <ul>

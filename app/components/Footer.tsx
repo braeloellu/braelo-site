@@ -21,7 +21,7 @@ export default function Footer() {
         <div className={styles.copyright}>
           <p>© 2026 Braelo LLC. Todos os direitos reservados.</p>
           <p>· Florida, EUA · em português</p>
-          <p>📧 contato@braelo.com | 📱 56 1234 3806 | Business Hours</p>
+          <p>📧 contato@braelo.com | 📱 +1 (561) 234-3806 | Business Hours</p>
           <a href="https://braelo.com">braelo.com</a>
         </div>
       </div>
